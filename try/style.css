@@ -23,9 +23,9 @@ aside{
 }
 @media (min-width: 768px) {
 	section{
-		width: 100%;
+		width: 70%;
 	}
 	aside{
-		width: 100%;
+		width: 28%;
 	}
 }
